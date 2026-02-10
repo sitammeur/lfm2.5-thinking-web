@@ -249,7 +249,7 @@ function App() {
               <br />
               Want to learn more? Check out the source code on{" "}
               <a
-                href="https://github.com/sitammeur/lfm2.5-thinker"
+                href="https://github.com/sitammeur/lfm2.5-thinking-web"
                 target="_blank"
                 rel="noreferrer"
                 className="font-medium underline"

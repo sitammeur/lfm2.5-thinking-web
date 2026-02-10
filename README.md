@@ -53,8 +53,8 @@ The project is structured as follows:
 
 To get started with this project, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/sitammeur/lfm2.5-thinker.git`
-2. Change the directory: `cd lfm2.5-thinker`
+1. Clone the repository: `git clone https://github.com/sitammeur/lfm2.5-thinking-web.git`
+2. Change the directory: `cd lfm2.5-thinking-web`
 3. Install the required dependencies: `npm install`
 4. Run the application: `npm run dev`
 
