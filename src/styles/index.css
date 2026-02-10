@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  /* scrollbar: w-2 */
+  .scrollbar-thin::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  /* scrollbar track: rounded-full, bg-gray-100, dark:bg-gray-700 */
+  .scrollbar-thin::-webkit-scrollbar-track {
+    @apply rounded-full bg-gray-100 dark:bg-gray-700;
+  }
+
+  /* scrollbar thumb: rounded-full, bg-gray-300, dark:bg-gray-600 */
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-gray-300 dark:bg-gray-600;
+  }
+
+  /* scrollbar thumb hover: bg-gray-500 */
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    @apply bg-gray-500;
+  }
+
+  /* equivalent: [animation-delay:200ms] */
+  .animation-delay-200 {
+    animation-delay: 200ms;
+  }
+
+  /* equivalent: [animation-delay:400ms] */
+  .animation-delay-400 {
+    animation-delay: 400ms;
+  }
+
+  /* equivalent: break-anywhere */
+  .overflow-wrap-anywhere {
+    overflow-wrap: anywhere;
+  }
+}
