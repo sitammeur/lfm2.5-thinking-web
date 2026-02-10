@@ -1,4 +1,4 @@
-# LFM-2.5 Thinker 🤖
+# LFM-2.5 Thinker 💭
 
 This is a simple web app that demonstrates how to use the [LFM2.5-1.2B-Thinking](https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking-ONNX) model by LiquidAI in the browser using [Transformers.js](https://huggingface.co/docs/transformers.js) and ONNX Runtime Web. The application allows users to chat with the LFM2.5-1.2B-Thinking model, a 1.2 billion parameter reasoning LLM, and receive real-time responses — all running locally in the browser via WebGPU.
 

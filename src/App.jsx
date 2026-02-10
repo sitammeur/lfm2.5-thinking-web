@@ -210,7 +210,7 @@ function App() {
               height="auto"
               className="block drop-shadow-lg bg-transparent"
             ></img>
-            <h1 className="text-4xl font-bold my-1">LFM-2.5 Thinker 🤖</h1>
+            <h1 className="text-4xl font-bold my-1">LFM-2.5 Thinker 💭</h1>
             <h2 className="font-semibold">
               A reasoning model that runs locally in your browser with WebGPU
               acceleration.
