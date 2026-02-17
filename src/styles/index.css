@@ -1,6 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+/* Class-based dark mode (e.g. <html class="dark">) */
+@custom-variant dark (&:where(.dark, .dark *));
 
 @layer utilities {
   /* scrollbar: w-2 */
