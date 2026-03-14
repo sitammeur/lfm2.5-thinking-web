@@ -18,7 +18,7 @@ The project is structured as follows:
       - `UserIcon.jsx`: User icon component.
 
     - `Chat.jsx`: Chat component for displaying chat messages.
-    - `Progress.jsx`: Progress component for displaying progress bar.
+    - `Progress.jsx`: Progress component for displaying a progress bar.
 
   - `styles/`: CSS files for styling the application.
     - `index.css`: Global CSS styles for the application.
@@ -63,8 +63,6 @@ Open your local host to view the web application in your browser at `http://loca
 ## Results
 
 The application allows users to chat with LFM2.5-1.2B-Thinking, a large language model by LiquidAI optimized for reasoning, that operates within web browsers via 🤗 Transformers.js and ONNX Runtime Web.
-
-To see results, please refer to the live version of the application [here](https://huggingface.co/spaces/sitammeur/LFM2.5-Thinking-WebGPU), which is deployed on Hugging Face Spaces.
 
 ## Contributing
 
