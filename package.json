@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@huggingface/transformers": "^4.0.0-next.3",
+    "@huggingface/transformers": "^4.2.0",
     "better-react-mathjax": "^3.0.0",
     "dompurify": "^3.3.1",
     "marked": "^17.0.2",
